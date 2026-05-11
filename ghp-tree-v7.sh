@@ -6,9 +6,9 @@ find .  -path "./.git" -prune -o -execdir bash -c 'tree -H ./ > fulltree.cj' \;
 # creates the full tree except in git
 find .  -path "./.git" -prune -o -execdir bash -c 'tree -d -H ./ > folders1.cj' \;
 # creates the tree of all folders -d except in git
-find . -path "./.git" -prune -o -execdir bash -c 'echo "<html><body><h3>Branch is: ${PWD##*/} | <a href="../">Back to Branch</a></h3><p><hr></body></html>" > navheader.cj' \;
+find . -path "./.git" -prune -o -execdir bash -c 'echo "<html><body><h3>Back to Branch: </h3><a href="../">${PWD##*/}</a> | <p><hr></body></html>" > navheader.cj' \;
 # appends curent folder and back folder path
-find . -path "./.git" -prune -o -execdir bash -c 'cat folders1.cj navheader.cj > folders.cj' \;
+find . -path "./.git" -prune -o -execdir bash -c 'cat navheader.cj folders1.cj > folders.cj' \;
 # concatenates the folder1 and navheader trees
 find . -name folders.cj -type f -execdir sed -iE 's/Directory Tree/Stems/' folders.cj \;
 # Replaces the word Directory tree with folder in tree
