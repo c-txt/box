@@ -91,3 +91,6 @@ To temper
 - Pav bhaji masala powder is the star of this dish. If you don’t have it
   in hand, replace it with garam masala or tandoori masala powder. But
   you have to compromise with the actual taste.
+
+
+[<< Back to Navigation](../)

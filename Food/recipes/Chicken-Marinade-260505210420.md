@@ -35,3 +35,6 @@ To prepare this simple Indian chicken marinade, you will need the following ingr
 * 1 teaspoon garam masala
 * 1/2 teaspoon chilli powder
 * Salt to taste
+
+
+[<< Back to Navigation](../)

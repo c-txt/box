@@ -19,3 +19,6 @@
 8\. Serve oats porridge hot or warm or at room temperature. If serving oats porridge at room temperature then do note that it will thicken more as it cools. If adding chopped fruits, then add it when the porridge becomes lukewarm or cooled down completely. You can also add chopped dry fruits of your choice.
 
  
+
+
+[<< Back to Navigation](../)

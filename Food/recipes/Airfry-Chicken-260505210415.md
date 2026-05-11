@@ -24,3 +24,6 @@ Cooked chicken can be stored in the fridge for up to 4 days in an airtight conta
 
 Reheat the chicken in the air fryer, oven, or microwave until warmed through to your liking.
 
+
+
+[<< Back to Navigation](../)

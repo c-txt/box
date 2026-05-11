@@ -11,3 +11,5 @@ Bring a flask. There are no shops here. Just solitude. In a city that's always t
 
 #travel
 #bangalore
+
+[<< Back to Navigation](../)
