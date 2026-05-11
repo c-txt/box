@@ -1,0 +1,14 @@
+---
+name: box
+title: box title
+---
+markdown:kramdown
+
+# SEO Stuff
+author: c
+description: See the text
+lang: en
+locale: en_GB
+url: "https://c-txt.github.io/"
+baseurl: ""
+
