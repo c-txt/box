@@ -1,6 +1,6 @@
 ---
 name: box
-title: [back](../)
+title: <a href="../">back</a>
 ---
 markdown:kramdown
 
