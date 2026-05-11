@@ -6,20 +6,20 @@ find .  -path "./.git" -prune -o -execdir bash -c 'tree -H ./ > fulltree.cj' \;
 # creates the full tree except in git
 find .  -path "./.git" -prune -o -execdir bash -c 'tree -d -H ./ > folders1.cj' \;
 # creates the tree of all folders -d except in git
-find . -path "./.git" -prune -o -execdir bash -c 'echo "<!DOCTYPE html><html><body><h3>Parent Branch is: ${PWD##*/} | <a href="../">Back to Parent Branch</a></h3><p><hr></body></html>" > navheader.cj' \;
+find . -path "./.git" -prune -o -execdir bash -c 'echo "<html><body><h3>Branch is: ${PWD##*/} | <a href="../">Back to Branch</a></h3><p><hr></body></html>" > navheader.cj' \;
 # appends curent folder and back folder path
 find . -path "./.git" -prune -o -execdir bash -c 'cat folders1.cj navheader.cj > folders.cj' \;
 # concatenates the folder1 and navheader trees
-find . -name folders.cj -type f -execdir sed -iE 's/Directory Tree/Branches/' folders.cj \;
+find . -name folders.cj -type f -execdir sed -iE 's/Directory Tree/Stems/' folders.cj \;
 # Replaces the word Directory tree with folder in tree
-find . -name fulltree.cj -type f -execdir sed -iE 's/Directory Tree/Leaves on Branch/' fulltree.cj \;
+find . -name fulltree.cj -type f -execdir sed -iE 's/Directory Tree/Leaves/' fulltree.cj \;
 # Replaces the word Directory tree with Files in Branch
 find . -path "./.git" -prune -o -execdir bash -c 'cat folders.cj fulltree.cj > index.html' \;
 # concatenates the folder and file trees
 rm index.html
 # removes the multiple trees cocatenated in the root folder
 tree -d -H ./ > index.html
-sed -iE 's/Directory Tree/Branches on Tree/' index.html
+sed -iE 's/Directory Tree/Branches/' index.html
 # recreates the tree in the root folder
 find . -name index.html -type f -execdir sed -iE 's/\.md/\.html/' index.html \;
 # Replaces the word .md with .html in all the index files
