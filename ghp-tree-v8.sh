@@ -38,7 +38,7 @@ find . -name folders.cjE -type f -delete
 find . -name fulltree.cjE -type f -delete
 find . -name index.htmlE -type f -delete
 # deletes all the temp files
-find . -path "./.git" -prune -o -name "*.md"  -exec bash -c 'printf "\n\n[<< Back to Navigation](../)" >> "{}"' \;
+find . -path "./.git" -prune -o -name "*.md"  -exec bash -c 'printf "\n\n[<< Back to Navigation](./)" >> "{}"' \;
 # Appends a navigation link to every md file
 
 

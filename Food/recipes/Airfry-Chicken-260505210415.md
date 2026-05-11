@@ -27,3 +27,5 @@ Reheat the chicken in the air fryer, oven, or microwave until warmed through to 
 
 
 [<< Back to Navigation](../)
+
+[<< Back to Navigation](./)
