@@ -93,6 +93,3 @@ To temper
   you have to compromise with the actual taste.
 
 
-[<< Back to Navigation](../)
-
-[<< Back to Navigation](./)

@@ -7,7 +7,5 @@
 
 --------
 #### Files in folder:
-[Password-Techniques](./Password-Techniques)
-
 
 --------

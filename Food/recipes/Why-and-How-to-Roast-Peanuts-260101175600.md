@@ -24,6 +24,3 @@ Proper storage is essential to maintain the quality and flavor of your freshly r
 
 #food #recipe #health
 
-[<< Back to Navigation](../)
-
-[<< Back to Navigation](./)

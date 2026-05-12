@@ -14,9 +14,3 @@ Examples:
 - Gerald Charles Maestro 4.0 Ducati 30° Anniversario 916
 
 
-
-
-
-[<< Back to Navigation](../)
-
-[<< Back to Navigation](./)

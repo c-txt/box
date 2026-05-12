@@ -21,6 +21,3 @@
  
 
 
-[<< Back to Navigation](../)
-
-[<< Back to Navigation](./)

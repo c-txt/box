@@ -37,6 +37,3 @@ To prepare this simple Indian chicken marinade, you will need the following ingr
 * Salt to taste
 
 
-[<< Back to Navigation](../)
-
-[<< Back to Navigation](./)
