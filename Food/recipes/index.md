@@ -11,6 +11,8 @@
 
 [Chicken-Marinade-260505210420](./Chicken-Marinade-260505210420)
 
+[Mayonnaise-Recipe](./Mayonnaise-Recipe)
+
 [Oats-Porridge-Recipe-260506174221](./Oats-Porridge-Recipe-260506174221)
 
 [Ragi-Oats-Breakfast-260506175505](./Ragi-Oats-Breakfast-260506175505)

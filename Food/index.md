@@ -1,6 +1,5 @@
----
-[Up to Parent folder](../)
 
+[Up to Parent folder](../)
 --------
 ### Current folder: Food
 --------
