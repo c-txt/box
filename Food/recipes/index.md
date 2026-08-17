@@ -11,6 +11,11 @@
 
 [Chicken-Marinade-260505210420](./Chicken-Marinade-260505210420)
 
+[How-to-cook-Quinoa](./How-to-cook-Quinoa)
+
+[How-to-make-bittergourd-palatable](./How-to-make-bittergourd-palatable)
+
+
 [Mayonnaise-Recipe](./Mayonnaise-Recipe)
 
 [Oats-Porridge-Recipe-260506174221](./Oats-Porridge-Recipe-260506174221)
@@ -24,6 +29,5 @@
 [Tawa-Pulao-Recipe](./Tawa-Pulao-Recipe)
 
 [Why-and-How-to-Roast-Peanuts-260101175600](./Why-and-How-to-Roast-Peanuts-260101175600)
-
 
 --------
